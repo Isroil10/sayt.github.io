@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Sayt_03</title><link rel="icon" type="text/css" href="python.jpg">
+	
 	<link rel="stylesheet" type="text/css" href="sayt.css">
 </head>
 <body>

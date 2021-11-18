@@ -3,7 +3,7 @@
 <html>
 <head>
 	<title>Sayt_03</title><link rel="icon" type="text/css" href="python.jpg">
-	<link rel="stylesheet" type="text/css" href="Sayt.css">
+	<link rel="stylesheet" type="text/css" href="s	sayt.css">
 </head>
 <body>
 <header class="header_010">

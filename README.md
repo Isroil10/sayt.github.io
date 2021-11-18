@@ -4,7 +4,13 @@
 <head>
 	<title>Sayt_03</title><link rel="icon" type="text/css" href="python.jpg">
 	<link rel="stylesheet" type="text/css" href="Sayt.css">
-<style>
+
+	
+	
+	
+	
+	
+	<style>
 				@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Open+Sans:wght@300;400&family=Roboto:wght@100;400;700&display=swap');
 		/*
 		font-family: 'DM Sans', sans-serif;

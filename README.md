@@ -1,9 +1,10 @@
 
 <!DOCTYPE html>
 <html>
+	<link rel="stylesheet" type="text/css" href="sayt.css">
 <head>
 	
-	<link rel="stylesheet" type="text/css" href="sayt.css">
+	
 </head>
 <body>
 <header class="header_010">
